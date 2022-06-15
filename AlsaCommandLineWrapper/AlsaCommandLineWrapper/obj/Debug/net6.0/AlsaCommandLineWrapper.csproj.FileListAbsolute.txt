@@ -1,0 +1,12 @@
+/home/yann/dev/github/AlsaCLWrapper/AlsaCommandLineWrapper/AlsaCommandLineWrapper/bin/Debug/net6.0/AlsaCommandLineWrapper.deps.json
+/home/yann/dev/github/AlsaCLWrapper/AlsaCommandLineWrapper/AlsaCommandLineWrapper/bin/Debug/net6.0/AlsaCommandLineWrapper.dll
+/home/yann/dev/github/AlsaCLWrapper/AlsaCommandLineWrapper/AlsaCommandLineWrapper/bin/Debug/net6.0/AlsaCommandLineWrapper.pdb
+/home/yann/dev/github/AlsaCLWrapper/AlsaCommandLineWrapper/AlsaCommandLineWrapper/obj/Debug/net6.0/AlsaCommandLineWrapper.csproj.AssemblyReference.cache
+/home/yann/dev/github/AlsaCLWrapper/AlsaCommandLineWrapper/AlsaCommandLineWrapper/obj/Debug/net6.0/AlsaCommandLineWrapper.GeneratedMSBuildEditorConfig.editorconfig
+/home/yann/dev/github/AlsaCLWrapper/AlsaCommandLineWrapper/AlsaCommandLineWrapper/obj/Debug/net6.0/AlsaCommandLineWrapper.AssemblyInfoInputs.cache
+/home/yann/dev/github/AlsaCLWrapper/AlsaCommandLineWrapper/AlsaCommandLineWrapper/obj/Debug/net6.0/AlsaCommandLineWrapper.AssemblyInfo.cs
+/home/yann/dev/github/AlsaCLWrapper/AlsaCommandLineWrapper/AlsaCommandLineWrapper/obj/Debug/net6.0/AlsaCommandLineWrapper.csproj.CoreCompileInputs.cache
+/home/yann/dev/github/AlsaCLWrapper/AlsaCommandLineWrapper/AlsaCommandLineWrapper/obj/Debug/net6.0/AlsaCommandLineWrapper.dll
+/home/yann/dev/github/AlsaCLWrapper/AlsaCommandLineWrapper/AlsaCommandLineWrapper/obj/Debug/net6.0/refint/AlsaCommandLineWrapper.dll
+/home/yann/dev/github/AlsaCLWrapper/AlsaCommandLineWrapper/AlsaCommandLineWrapper/obj/Debug/net6.0/AlsaCommandLineWrapper.pdb
+/home/yann/dev/github/AlsaCLWrapper/AlsaCommandLineWrapper/AlsaCommandLineWrapper/obj/Debug/net6.0/ref/AlsaCommandLineWrapper.dll
